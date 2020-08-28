@@ -1,5 +1,6 @@
 .idea/
 .DS_Store
+*.swp
 node_modules
 oops.html
 ignore-me-too.html
@@ -10,3 +11,5 @@ test.html
 one-more.html
 more.html
 not-again.html
+michael.html
+keep-me.html
