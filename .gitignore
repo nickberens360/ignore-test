@@ -1,6 +1,6 @@
 .idea/
 .DS_Store
-
+node_modules
 oops.html
 ignore-me-too.html
 ignore-again.html
